@@ -1,1 +1,1 @@
-App para sockets
+Html para verificar la conexion de los sockets y evitar la falla de cors
